@@ -10,9 +10,14 @@
 
 - 💬 Ask me about **JavaScript, MongoDB, Express.js, React.js, Node.js**
 
-- 📫 How to reach me **omydv3@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- -- 🔭 **I’m currently working on:**MERN Stack Development**
+- 🌱 **I’m currently learning:**Scalable Design and Security**
+- 👯 **I’m looking to collaborate on:** Frontend/Full-stack web apps, UI/UX projects, and educational tech tools
+- 🤔 **I’m looking for help with:** Real-world project exposure & backend architecture
+- 💬 **Ask me about:** Web development, Resume building, Collaboration, Tech Support and Architecture of backend. 
+- 📫 **How to reach me:** omydv3@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love turning complex problems into simple web experiences (and I make a great Black Coffee ☕ too!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
